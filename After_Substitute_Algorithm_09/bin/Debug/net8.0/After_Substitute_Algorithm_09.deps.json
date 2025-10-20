@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "After_Substitute_Algorithm_09/1.0.0": {
+        "runtime": {
+          "After_Substitute_Algorithm_09.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "After_Substitute_Algorithm_09/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
