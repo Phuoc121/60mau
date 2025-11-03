@@ -1,0 +1,14 @@
+D:\DPM225458_PhamHuuPhuoc\60mau\Add Parameter solution\bin\Debug\net8.0\Add Parameter solution.exe
+D:\DPM225458_PhamHuuPhuoc\60mau\Add Parameter solution\bin\Debug\net8.0\Add Parameter solution.deps.json
+D:\DPM225458_PhamHuuPhuoc\60mau\Add Parameter solution\bin\Debug\net8.0\Add Parameter solution.runtimeconfig.json
+D:\DPM225458_PhamHuuPhuoc\60mau\Add Parameter solution\bin\Debug\net8.0\Add Parameter solution.dll
+D:\DPM225458_PhamHuuPhuoc\60mau\Add Parameter solution\bin\Debug\net8.0\Add Parameter solution.pdb
+D:\DPM225458_PhamHuuPhuoc\60mau\Add Parameter solution\obj\Debug\net8.0\Add Parameter solution.GeneratedMSBuildEditorConfig.editorconfig
+D:\DPM225458_PhamHuuPhuoc\60mau\Add Parameter solution\obj\Debug\net8.0\Add Parameter solution.AssemblyInfoInputs.cache
+D:\DPM225458_PhamHuuPhuoc\60mau\Add Parameter solution\obj\Debug\net8.0\Add Parameter solution.AssemblyInfo.cs
+D:\DPM225458_PhamHuuPhuoc\60mau\Add Parameter solution\obj\Debug\net8.0\Add Parameter solution.csproj.CoreCompileInputs.cache
+D:\DPM225458_PhamHuuPhuoc\60mau\Add Parameter solution\obj\Debug\net8.0\Add Parameter solution.dll
+D:\DPM225458_PhamHuuPhuoc\60mau\Add Parameter solution\obj\Debug\net8.0\refint\Add Parameter solution.dll
+D:\DPM225458_PhamHuuPhuoc\60mau\Add Parameter solution\obj\Debug\net8.0\Add Parameter solution.pdb
+D:\DPM225458_PhamHuuPhuoc\60mau\Add Parameter solution\obj\Debug\net8.0\Add Parameter solution.genruntimeconfig.cache
+D:\DPM225458_PhamHuuPhuoc\60mau\Add Parameter solution\obj\Debug\net8.0\ref\Add Parameter solution.dll
