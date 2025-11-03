@@ -1,0 +1,14 @@
+D:\DPM225458_PhamHuuPhuoc\60mau\Before Collapse Hierarchy 31\bin\Debug\net8.0\Before Collapse Hierarchy 31.exe
+D:\DPM225458_PhamHuuPhuoc\60mau\Before Collapse Hierarchy 31\bin\Debug\net8.0\Before Collapse Hierarchy 31.deps.json
+D:\DPM225458_PhamHuuPhuoc\60mau\Before Collapse Hierarchy 31\bin\Debug\net8.0\Before Collapse Hierarchy 31.runtimeconfig.json
+D:\DPM225458_PhamHuuPhuoc\60mau\Before Collapse Hierarchy 31\bin\Debug\net8.0\Before Collapse Hierarchy 31.dll
+D:\DPM225458_PhamHuuPhuoc\60mau\Before Collapse Hierarchy 31\bin\Debug\net8.0\Before Collapse Hierarchy 31.pdb
+D:\DPM225458_PhamHuuPhuoc\60mau\Before Collapse Hierarchy 31\obj\Debug\net8.0\Before Collapse Hierarchy 31.GeneratedMSBuildEditorConfig.editorconfig
+D:\DPM225458_PhamHuuPhuoc\60mau\Before Collapse Hierarchy 31\obj\Debug\net8.0\Before Collapse Hierarchy 31.AssemblyInfoInputs.cache
+D:\DPM225458_PhamHuuPhuoc\60mau\Before Collapse Hierarchy 31\obj\Debug\net8.0\Before Collapse Hierarchy 31.AssemblyInfo.cs
+D:\DPM225458_PhamHuuPhuoc\60mau\Before Collapse Hierarchy 31\obj\Debug\net8.0\Before Collapse Hierarchy 31.csproj.CoreCompileInputs.cache
+D:\DPM225458_PhamHuuPhuoc\60mau\Before Collapse Hierarchy 31\obj\Debug\net8.0\Before Collapse Hierarchy 31.dll
+D:\DPM225458_PhamHuuPhuoc\60mau\Before Collapse Hierarchy 31\obj\Debug\net8.0\refint\Before Collapse Hierarchy 31.dll
+D:\DPM225458_PhamHuuPhuoc\60mau\Before Collapse Hierarchy 31\obj\Debug\net8.0\Before Collapse Hierarchy 31.pdb
+D:\DPM225458_PhamHuuPhuoc\60mau\Before Collapse Hierarchy 31\obj\Debug\net8.0\Before Collapse Hierarchy 31.genruntimeconfig.cache
+D:\DPM225458_PhamHuuPhuoc\60mau\Before Collapse Hierarchy 31\obj\Debug\net8.0\ref\Before Collapse Hierarchy 31.dll

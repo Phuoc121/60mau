@@ -1,0 +1,14 @@
+D:\DPM225458_PhamHuuPhuoc\60mau\Before Extract Interface 30\bin\Debug\net8.0\Before Extract Interface 30.exe
+D:\DPM225458_PhamHuuPhuoc\60mau\Before Extract Interface 30\bin\Debug\net8.0\Before Extract Interface 30.deps.json
+D:\DPM225458_PhamHuuPhuoc\60mau\Before Extract Interface 30\bin\Debug\net8.0\Before Extract Interface 30.runtimeconfig.json
+D:\DPM225458_PhamHuuPhuoc\60mau\Before Extract Interface 30\bin\Debug\net8.0\Before Extract Interface 30.dll
+D:\DPM225458_PhamHuuPhuoc\60mau\Before Extract Interface 30\bin\Debug\net8.0\Before Extract Interface 30.pdb
+D:\DPM225458_PhamHuuPhuoc\60mau\Before Extract Interface 30\obj\Debug\net8.0\Before Extract Interface 30.GeneratedMSBuildEditorConfig.editorconfig
+D:\DPM225458_PhamHuuPhuoc\60mau\Before Extract Interface 30\obj\Debug\net8.0\Before Extract Interface 30.AssemblyInfoInputs.cache
+D:\DPM225458_PhamHuuPhuoc\60mau\Before Extract Interface 30\obj\Debug\net8.0\Before Extract Interface 30.AssemblyInfo.cs
+D:\DPM225458_PhamHuuPhuoc\60mau\Before Extract Interface 30\obj\Debug\net8.0\Before Extract Interface 30.csproj.CoreCompileInputs.cache
+D:\DPM225458_PhamHuuPhuoc\60mau\Before Extract Interface 30\obj\Debug\net8.0\Before Extract Interface 30.dll
+D:\DPM225458_PhamHuuPhuoc\60mau\Before Extract Interface 30\obj\Debug\net8.0\refint\Before Extract Interface 30.dll
+D:\DPM225458_PhamHuuPhuoc\60mau\Before Extract Interface 30\obj\Debug\net8.0\Before Extract Interface 30.pdb
+D:\DPM225458_PhamHuuPhuoc\60mau\Before Extract Interface 30\obj\Debug\net8.0\Before Extract Interface 30.genruntimeconfig.cache
+D:\DPM225458_PhamHuuPhuoc\60mau\Before Extract Interface 30\obj\Debug\net8.0\ref\Before Extract Interface 30.dll
