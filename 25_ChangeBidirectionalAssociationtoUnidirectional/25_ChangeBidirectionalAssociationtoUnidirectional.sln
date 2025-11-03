@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "After_ChangeBidirectionalAssociationtoUnidirectional", "After_ChangeBidirectionalAssociationtoUnidirectional\After_ChangeBidirectionalAssociationtoUnidirectional.csproj", "{90728C85-27C0-42DB-AB9D-466465407790}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Before_ChangeBidirectionalAssociationtoUnidirectional", "Before_ChangeBidirectionalAssociationtoUnidirectional\Before_ChangeBidirectionalAssociationtoUnidirectional.csproj", "{98148957-045B-4257-88DB-7CAE5D5CE859}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90728C85-27C0-42DB-AB9D-466465407790}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90728C85-27C0-42DB-AB9D-466465407790}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90728C85-27C0-42DB-AB9D-466465407790}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90728C85-27C0-42DB-AB9D-466465407790}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98148957-045B-4257-88DB-7CAE5D5CE859}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98148957-045B-4257-88DB-7CAE5D5CE859}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98148957-045B-4257-88DB-7CAE5D5CE859}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98148957-045B-4257-88DB-7CAE5D5CE859}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73968654-B823-4650-9E92-4E121FD48829}
+	EndGlobalSection
+EndGlobal
