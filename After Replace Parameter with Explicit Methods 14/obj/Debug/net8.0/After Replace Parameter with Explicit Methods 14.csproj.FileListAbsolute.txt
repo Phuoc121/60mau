@@ -1,0 +1,14 @@
+D:\DPM225458_PhamHuuPhuoc\60mau\After Replace Parameter with Explicit Methods 14\bin\Debug\net8.0\After Replace Parameter with Explicit Methods 14.exe
+D:\DPM225458_PhamHuuPhuoc\60mau\After Replace Parameter with Explicit Methods 14\bin\Debug\net8.0\After Replace Parameter with Explicit Methods 14.deps.json
+D:\DPM225458_PhamHuuPhuoc\60mau\After Replace Parameter with Explicit Methods 14\bin\Debug\net8.0\After Replace Parameter with Explicit Methods 14.runtimeconfig.json
+D:\DPM225458_PhamHuuPhuoc\60mau\After Replace Parameter with Explicit Methods 14\bin\Debug\net8.0\After Replace Parameter with Explicit Methods 14.dll
+D:\DPM225458_PhamHuuPhuoc\60mau\After Replace Parameter with Explicit Methods 14\bin\Debug\net8.0\After Replace Parameter with Explicit Methods 14.pdb
+D:\DPM225458_PhamHuuPhuoc\60mau\After Replace Parameter with Explicit Methods 14\obj\Debug\net8.0\After Replace Parameter with Explicit Methods 14.GeneratedMSBuildEditorConfig.editorconfig
+D:\DPM225458_PhamHuuPhuoc\60mau\After Replace Parameter with Explicit Methods 14\obj\Debug\net8.0\After Replace Parameter with Explicit Methods 14.AssemblyInfoInputs.cache
+D:\DPM225458_PhamHuuPhuoc\60mau\After Replace Parameter with Explicit Methods 14\obj\Debug\net8.0\After Replace Parameter with Explicit Methods 14.AssemblyInfo.cs
+D:\DPM225458_PhamHuuPhuoc\60mau\After Replace Parameter with Explicit Methods 14\obj\Debug\net8.0\After Replace Parameter with Explicit Methods 14.csproj.CoreCompileInputs.cache
+D:\DPM225458_PhamHuuPhuoc\60mau\After Replace Parameter with Explicit Methods 14\obj\Debug\net8.0\After Replace Parameter with Explicit Methods 14.dll
+D:\DPM225458_PhamHuuPhuoc\60mau\After Replace Parameter with Explicit Methods 14\obj\Debug\net8.0\refint\After Replace Parameter with Explicit Methods 14.dll
+D:\DPM225458_PhamHuuPhuoc\60mau\After Replace Parameter with Explicit Methods 14\obj\Debug\net8.0\After Replace Parameter with Explicit Methods 14.pdb
+D:\DPM225458_PhamHuuPhuoc\60mau\After Replace Parameter with Explicit Methods 14\obj\Debug\net8.0\After Replace Parameter with Explicit Methods 14.genruntimeconfig.cache
+D:\DPM225458_PhamHuuPhuoc\60mau\After Replace Parameter with Explicit Methods 14\obj\Debug\net8.0\ref\After Replace Parameter with Explicit Methods 14.dll

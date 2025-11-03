@@ -1,0 +1,14 @@
+D:\DPM225458_PhamHuuPhuoc\60mau\After Replace Parameter with Method Call 16\bin\Debug\net8.0\After Replace Parameter with Method Call 16.exe
+D:\DPM225458_PhamHuuPhuoc\60mau\After Replace Parameter with Method Call 16\bin\Debug\net8.0\After Replace Parameter with Method Call 16.deps.json
+D:\DPM225458_PhamHuuPhuoc\60mau\After Replace Parameter with Method Call 16\bin\Debug\net8.0\After Replace Parameter with Method Call 16.runtimeconfig.json
+D:\DPM225458_PhamHuuPhuoc\60mau\After Replace Parameter with Method Call 16\bin\Debug\net8.0\After Replace Parameter with Method Call 16.dll
+D:\DPM225458_PhamHuuPhuoc\60mau\After Replace Parameter with Method Call 16\bin\Debug\net8.0\After Replace Parameter with Method Call 16.pdb
+D:\DPM225458_PhamHuuPhuoc\60mau\After Replace Parameter with Method Call 16\obj\Debug\net8.0\After Replace Parameter with Method Call 16.GeneratedMSBuildEditorConfig.editorconfig
+D:\DPM225458_PhamHuuPhuoc\60mau\After Replace Parameter with Method Call 16\obj\Debug\net8.0\After Replace Parameter with Method Call 16.AssemblyInfoInputs.cache
+D:\DPM225458_PhamHuuPhuoc\60mau\After Replace Parameter with Method Call 16\obj\Debug\net8.0\After Replace Parameter with Method Call 16.AssemblyInfo.cs
+D:\DPM225458_PhamHuuPhuoc\60mau\After Replace Parameter with Method Call 16\obj\Debug\net8.0\After Replace Parameter with Method Call 16.csproj.CoreCompileInputs.cache
+D:\DPM225458_PhamHuuPhuoc\60mau\After Replace Parameter with Method Call 16\obj\Debug\net8.0\After Replace Parameter with Method Call 16.dll
+D:\DPM225458_PhamHuuPhuoc\60mau\After Replace Parameter with Method Call 16\obj\Debug\net8.0\refint\After Replace Parameter with Method Call 16.dll
+D:\DPM225458_PhamHuuPhuoc\60mau\After Replace Parameter with Method Call 16\obj\Debug\net8.0\After Replace Parameter with Method Call 16.pdb
+D:\DPM225458_PhamHuuPhuoc\60mau\After Replace Parameter with Method Call 16\obj\Debug\net8.0\After Replace Parameter with Method Call 16.genruntimeconfig.cache
+D:\DPM225458_PhamHuuPhuoc\60mau\After Replace Parameter with Method Call 16\obj\Debug\net8.0\ref\After Replace Parameter with Method Call 16.dll

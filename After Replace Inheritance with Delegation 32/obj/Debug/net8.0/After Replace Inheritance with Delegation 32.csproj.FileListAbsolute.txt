@@ -1,0 +1,14 @@
+D:\DPM225458_PhamHuuPhuoc\60mau\After Replace Inheritance with Delegation 32\bin\Debug\net8.0\After Replace Inheritance with Delegation 32.exe
+D:\DPM225458_PhamHuuPhuoc\60mau\After Replace Inheritance with Delegation 32\bin\Debug\net8.0\After Replace Inheritance with Delegation 32.deps.json
+D:\DPM225458_PhamHuuPhuoc\60mau\After Replace Inheritance with Delegation 32\bin\Debug\net8.0\After Replace Inheritance with Delegation 32.runtimeconfig.json
+D:\DPM225458_PhamHuuPhuoc\60mau\After Replace Inheritance with Delegation 32\bin\Debug\net8.0\After Replace Inheritance with Delegation 32.dll
+D:\DPM225458_PhamHuuPhuoc\60mau\After Replace Inheritance with Delegation 32\bin\Debug\net8.0\After Replace Inheritance with Delegation 32.pdb
+D:\DPM225458_PhamHuuPhuoc\60mau\After Replace Inheritance with Delegation 32\obj\Debug\net8.0\After Replace Inheritance with Delegation 32.GeneratedMSBuildEditorConfig.editorconfig
+D:\DPM225458_PhamHuuPhuoc\60mau\After Replace Inheritance with Delegation 32\obj\Debug\net8.0\After Replace Inheritance with Delegation 32.AssemblyInfoInputs.cache
+D:\DPM225458_PhamHuuPhuoc\60mau\After Replace Inheritance with Delegation 32\obj\Debug\net8.0\After Replace Inheritance with Delegation 32.AssemblyInfo.cs
+D:\DPM225458_PhamHuuPhuoc\60mau\After Replace Inheritance with Delegation 32\obj\Debug\net8.0\After Replace Inheritance with Delegation 32.csproj.CoreCompileInputs.cache
+D:\DPM225458_PhamHuuPhuoc\60mau\After Replace Inheritance with Delegation 32\obj\Debug\net8.0\After Replace Inheritance with Delegation 32.dll
+D:\DPM225458_PhamHuuPhuoc\60mau\After Replace Inheritance with Delegation 32\obj\Debug\net8.0\refint\After Replace Inheritance with Delegation 32.dll
+D:\DPM225458_PhamHuuPhuoc\60mau\After Replace Inheritance with Delegation 32\obj\Debug\net8.0\After Replace Inheritance with Delegation 32.pdb
+D:\DPM225458_PhamHuuPhuoc\60mau\After Replace Inheritance with Delegation 32\obj\Debug\net8.0\After Replace Inheritance with Delegation 32.genruntimeconfig.cache
+D:\DPM225458_PhamHuuPhuoc\60mau\After Replace Inheritance with Delegation 32\obj\Debug\net8.0\ref\After Replace Inheritance with Delegation 32.dll
