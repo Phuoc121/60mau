@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "After Replace Exception with Test 22/1.0.0": {
+        "runtime": {
+          "After Replace Exception with Test 22.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "After Replace Exception with Test 22/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

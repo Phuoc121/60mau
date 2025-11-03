@@ -1,0 +1,14 @@
+D:\DPM225458_PhamHuuPhuoc\60mau\After Replace Error Code with Exception 21\bin\Debug\net8.0\After Replace Error Code with Exception 21.exe
+D:\DPM225458_PhamHuuPhuoc\60mau\After Replace Error Code with Exception 21\bin\Debug\net8.0\After Replace Error Code with Exception 21.deps.json
+D:\DPM225458_PhamHuuPhuoc\60mau\After Replace Error Code with Exception 21\bin\Debug\net8.0\After Replace Error Code with Exception 21.runtimeconfig.json
+D:\DPM225458_PhamHuuPhuoc\60mau\After Replace Error Code with Exception 21\bin\Debug\net8.0\After Replace Error Code with Exception 21.dll
+D:\DPM225458_PhamHuuPhuoc\60mau\After Replace Error Code with Exception 21\bin\Debug\net8.0\After Replace Error Code with Exception 21.pdb
+D:\DPM225458_PhamHuuPhuoc\60mau\After Replace Error Code with Exception 21\obj\Debug\net8.0\After Replace Error Code with Exception 21.GeneratedMSBuildEditorConfig.editorconfig
+D:\DPM225458_PhamHuuPhuoc\60mau\After Replace Error Code with Exception 21\obj\Debug\net8.0\After Replace Error Code with Exception 21.AssemblyInfoInputs.cache
+D:\DPM225458_PhamHuuPhuoc\60mau\After Replace Error Code with Exception 21\obj\Debug\net8.0\After Replace Error Code with Exception 21.AssemblyInfo.cs
+D:\DPM225458_PhamHuuPhuoc\60mau\After Replace Error Code with Exception 21\obj\Debug\net8.0\After Replace Error Code with Exception 21.csproj.CoreCompileInputs.cache
+D:\DPM225458_PhamHuuPhuoc\60mau\After Replace Error Code with Exception 21\obj\Debug\net8.0\After Replace Error Code with Exception 21.dll
+D:\DPM225458_PhamHuuPhuoc\60mau\After Replace Error Code with Exception 21\obj\Debug\net8.0\refint\After Replace Error Code with Exception 21.dll
+D:\DPM225458_PhamHuuPhuoc\60mau\After Replace Error Code with Exception 21\obj\Debug\net8.0\After Replace Error Code with Exception 21.pdb
+D:\DPM225458_PhamHuuPhuoc\60mau\After Replace Error Code with Exception 21\obj\Debug\net8.0\After Replace Error Code with Exception 21.genruntimeconfig.cache
+D:\DPM225458_PhamHuuPhuoc\60mau\After Replace Error Code with Exception 21\obj\Debug\net8.0\ref\After Replace Error Code with Exception 21.dll

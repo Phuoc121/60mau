@@ -1,0 +1,14 @@
+D:\DPM225458_PhamHuuPhuoc\60mau\After Replace Constructor with Factory Method 20\bin\Debug\net8.0\After Replace Constructor with Factory Method 20.exe
+D:\DPM225458_PhamHuuPhuoc\60mau\After Replace Constructor with Factory Method 20\bin\Debug\net8.0\After Replace Constructor with Factory Method 20.deps.json
+D:\DPM225458_PhamHuuPhuoc\60mau\After Replace Constructor with Factory Method 20\bin\Debug\net8.0\After Replace Constructor with Factory Method 20.runtimeconfig.json
+D:\DPM225458_PhamHuuPhuoc\60mau\After Replace Constructor with Factory Method 20\bin\Debug\net8.0\After Replace Constructor with Factory Method 20.dll
+D:\DPM225458_PhamHuuPhuoc\60mau\After Replace Constructor with Factory Method 20\bin\Debug\net8.0\After Replace Constructor with Factory Method 20.pdb
+D:\DPM225458_PhamHuuPhuoc\60mau\After Replace Constructor with Factory Method 20\obj\Debug\net8.0\After Replace Constructor with Factory Method 20.GeneratedMSBuildEditorConfig.editorconfig
+D:\DPM225458_PhamHuuPhuoc\60mau\After Replace Constructor with Factory Method 20\obj\Debug\net8.0\After Replace Constructor with Factory Method 20.AssemblyInfoInputs.cache
+D:\DPM225458_PhamHuuPhuoc\60mau\After Replace Constructor with Factory Method 20\obj\Debug\net8.0\After Replace Constructor with Factory Method 20.AssemblyInfo.cs
+D:\DPM225458_PhamHuuPhuoc\60mau\After Replace Constructor with Factory Method 20\obj\Debug\net8.0\After Replace Constructor with Factory Method 20.csproj.CoreCompileInputs.cache
+D:\DPM225458_PhamHuuPhuoc\60mau\After Replace Constructor with Factory Method 20\obj\Debug\net8.0\After Replace Constructor with Factory Method 20.dll
+D:\DPM225458_PhamHuuPhuoc\60mau\After Replace Constructor with Factory Method 20\obj\Debug\net8.0\refint\After Replace Constructor with Factory Method 20.dll
+D:\DPM225458_PhamHuuPhuoc\60mau\After Replace Constructor with Factory Method 20\obj\Debug\net8.0\After Replace Constructor with Factory Method 20.pdb
+D:\DPM225458_PhamHuuPhuoc\60mau\After Replace Constructor with Factory Method 20\obj\Debug\net8.0\After Replace Constructor with Factory Method 20.genruntimeconfig.cache
+D:\DPM225458_PhamHuuPhuoc\60mau\After Replace Constructor with Factory Method 20\obj\Debug\net8.0\ref\After Replace Constructor with Factory Method 20.dll
