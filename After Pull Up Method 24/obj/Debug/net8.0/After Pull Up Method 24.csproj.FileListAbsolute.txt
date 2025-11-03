@@ -1,0 +1,14 @@
+D:\DPM225458_PhamHuuPhuoc\60mau\After Pull Up Method 24\bin\Debug\net8.0\After Pull Up Method 24.exe
+D:\DPM225458_PhamHuuPhuoc\60mau\After Pull Up Method 24\bin\Debug\net8.0\After Pull Up Method 24.deps.json
+D:\DPM225458_PhamHuuPhuoc\60mau\After Pull Up Method 24\bin\Debug\net8.0\After Pull Up Method 24.runtimeconfig.json
+D:\DPM225458_PhamHuuPhuoc\60mau\After Pull Up Method 24\bin\Debug\net8.0\After Pull Up Method 24.dll
+D:\DPM225458_PhamHuuPhuoc\60mau\After Pull Up Method 24\bin\Debug\net8.0\After Pull Up Method 24.pdb
+D:\DPM225458_PhamHuuPhuoc\60mau\After Pull Up Method 24\obj\Debug\net8.0\After Pull Up Method 24.GeneratedMSBuildEditorConfig.editorconfig
+D:\DPM225458_PhamHuuPhuoc\60mau\After Pull Up Method 24\obj\Debug\net8.0\After Pull Up Method 24.AssemblyInfoInputs.cache
+D:\DPM225458_PhamHuuPhuoc\60mau\After Pull Up Method 24\obj\Debug\net8.0\After Pull Up Method 24.AssemblyInfo.cs
+D:\DPM225458_PhamHuuPhuoc\60mau\After Pull Up Method 24\obj\Debug\net8.0\After Pull Up Method 24.csproj.CoreCompileInputs.cache
+D:\DPM225458_PhamHuuPhuoc\60mau\After Pull Up Method 24\obj\Debug\net8.0\After Pull Up Method 24.dll
+D:\DPM225458_PhamHuuPhuoc\60mau\After Pull Up Method 24\obj\Debug\net8.0\refint\After Pull Up Method 24.dll
+D:\DPM225458_PhamHuuPhuoc\60mau\After Pull Up Method 24\obj\Debug\net8.0\After Pull Up Method 24.pdb
+D:\DPM225458_PhamHuuPhuoc\60mau\After Pull Up Method 24\obj\Debug\net8.0\After Pull Up Method 24.genruntimeconfig.cache
+D:\DPM225458_PhamHuuPhuoc\60mau\After Pull Up Method 24\obj\Debug\net8.0\ref\After Pull Up Method 24.dll
