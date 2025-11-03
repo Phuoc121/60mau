@@ -1,0 +1,14 @@
+D:\DPM225458_PhamHuuPhuoc\60mau\After Introduce Parameter Object 17\bin\Debug\net8.0\After Introduce Parameter Object 17.exe
+D:\DPM225458_PhamHuuPhuoc\60mau\After Introduce Parameter Object 17\bin\Debug\net8.0\After Introduce Parameter Object 17.deps.json
+D:\DPM225458_PhamHuuPhuoc\60mau\After Introduce Parameter Object 17\bin\Debug\net8.0\After Introduce Parameter Object 17.runtimeconfig.json
+D:\DPM225458_PhamHuuPhuoc\60mau\After Introduce Parameter Object 17\bin\Debug\net8.0\After Introduce Parameter Object 17.dll
+D:\DPM225458_PhamHuuPhuoc\60mau\After Introduce Parameter Object 17\bin\Debug\net8.0\After Introduce Parameter Object 17.pdb
+D:\DPM225458_PhamHuuPhuoc\60mau\After Introduce Parameter Object 17\obj\Debug\net8.0\After Introduce Parameter Object 17.GeneratedMSBuildEditorConfig.editorconfig
+D:\DPM225458_PhamHuuPhuoc\60mau\After Introduce Parameter Object 17\obj\Debug\net8.0\After Introduce Parameter Object 17.AssemblyInfoInputs.cache
+D:\DPM225458_PhamHuuPhuoc\60mau\After Introduce Parameter Object 17\obj\Debug\net8.0\After Introduce Parameter Object 17.AssemblyInfo.cs
+D:\DPM225458_PhamHuuPhuoc\60mau\After Introduce Parameter Object 17\obj\Debug\net8.0\After Introduce Parameter Object 17.csproj.CoreCompileInputs.cache
+D:\DPM225458_PhamHuuPhuoc\60mau\After Introduce Parameter Object 17\obj\Debug\net8.0\After Introduce Parameter Object 17.dll
+D:\DPM225458_PhamHuuPhuoc\60mau\After Introduce Parameter Object 17\obj\Debug\net8.0\refint\After Introduce Parameter Object 17.dll
+D:\DPM225458_PhamHuuPhuoc\60mau\After Introduce Parameter Object 17\obj\Debug\net8.0\After Introduce Parameter Object 17.pdb
+D:\DPM225458_PhamHuuPhuoc\60mau\After Introduce Parameter Object 17\obj\Debug\net8.0\After Introduce Parameter Object 17.genruntimeconfig.cache
+D:\DPM225458_PhamHuuPhuoc\60mau\After Introduce Parameter Object 17\obj\Debug\net8.0\ref\After Introduce Parameter Object 17.dll

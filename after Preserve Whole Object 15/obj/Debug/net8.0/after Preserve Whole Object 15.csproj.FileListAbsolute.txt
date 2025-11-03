@@ -1,0 +1,14 @@
+D:\DPM225458_PhamHuuPhuoc\60mau\after Preserve Whole Object 15\bin\Debug\net8.0\after Preserve Whole Object 15.exe
+D:\DPM225458_PhamHuuPhuoc\60mau\after Preserve Whole Object 15\bin\Debug\net8.0\after Preserve Whole Object 15.deps.json
+D:\DPM225458_PhamHuuPhuoc\60mau\after Preserve Whole Object 15\bin\Debug\net8.0\after Preserve Whole Object 15.runtimeconfig.json
+D:\DPM225458_PhamHuuPhuoc\60mau\after Preserve Whole Object 15\bin\Debug\net8.0\after Preserve Whole Object 15.dll
+D:\DPM225458_PhamHuuPhuoc\60mau\after Preserve Whole Object 15\bin\Debug\net8.0\after Preserve Whole Object 15.pdb
+D:\DPM225458_PhamHuuPhuoc\60mau\after Preserve Whole Object 15\obj\Debug\net8.0\after Preserve Whole Object 15.GeneratedMSBuildEditorConfig.editorconfig
+D:\DPM225458_PhamHuuPhuoc\60mau\after Preserve Whole Object 15\obj\Debug\net8.0\after Preserve Whole Object 15.AssemblyInfoInputs.cache
+D:\DPM225458_PhamHuuPhuoc\60mau\after Preserve Whole Object 15\obj\Debug\net8.0\after Preserve Whole Object 15.AssemblyInfo.cs
+D:\DPM225458_PhamHuuPhuoc\60mau\after Preserve Whole Object 15\obj\Debug\net8.0\after Preserve Whole Object 15.csproj.CoreCompileInputs.cache
+D:\DPM225458_PhamHuuPhuoc\60mau\after Preserve Whole Object 15\obj\Debug\net8.0\after Preserve Whole Object 15.dll
+D:\DPM225458_PhamHuuPhuoc\60mau\after Preserve Whole Object 15\obj\Debug\net8.0\refint\after Preserve Whole Object 15.dll
+D:\DPM225458_PhamHuuPhuoc\60mau\after Preserve Whole Object 15\obj\Debug\net8.0\after Preserve Whole Object 15.pdb
+D:\DPM225458_PhamHuuPhuoc\60mau\after Preserve Whole Object 15\obj\Debug\net8.0\after Preserve Whole Object 15.genruntimeconfig.cache
+D:\DPM225458_PhamHuuPhuoc\60mau\after Preserve Whole Object 15\obj\Debug\net8.0\ref\after Preserve Whole Object 15.dll
