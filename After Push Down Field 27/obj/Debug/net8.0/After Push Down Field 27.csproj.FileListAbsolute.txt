@@ -1,0 +1,14 @@
+D:\DPM225458_PhamHuuPhuoc\60mau\After Push Down Field 27\bin\Debug\net8.0\After Push Down Field 27.exe
+D:\DPM225458_PhamHuuPhuoc\60mau\After Push Down Field 27\bin\Debug\net8.0\After Push Down Field 27.deps.json
+D:\DPM225458_PhamHuuPhuoc\60mau\After Push Down Field 27\bin\Debug\net8.0\After Push Down Field 27.runtimeconfig.json
+D:\DPM225458_PhamHuuPhuoc\60mau\After Push Down Field 27\bin\Debug\net8.0\After Push Down Field 27.dll
+D:\DPM225458_PhamHuuPhuoc\60mau\After Push Down Field 27\bin\Debug\net8.0\After Push Down Field 27.pdb
+D:\DPM225458_PhamHuuPhuoc\60mau\After Push Down Field 27\obj\Debug\net8.0\After Push Down Field 27.GeneratedMSBuildEditorConfig.editorconfig
+D:\DPM225458_PhamHuuPhuoc\60mau\After Push Down Field 27\obj\Debug\net8.0\After Push Down Field 27.AssemblyInfoInputs.cache
+D:\DPM225458_PhamHuuPhuoc\60mau\After Push Down Field 27\obj\Debug\net8.0\After Push Down Field 27.AssemblyInfo.cs
+D:\DPM225458_PhamHuuPhuoc\60mau\After Push Down Field 27\obj\Debug\net8.0\After Push Down Field 27.csproj.CoreCompileInputs.cache
+D:\DPM225458_PhamHuuPhuoc\60mau\After Push Down Field 27\obj\Debug\net8.0\After Push Down Field 27.dll
+D:\DPM225458_PhamHuuPhuoc\60mau\After Push Down Field 27\obj\Debug\net8.0\refint\After Push Down Field 27.dll
+D:\DPM225458_PhamHuuPhuoc\60mau\After Push Down Field 27\obj\Debug\net8.0\After Push Down Field 27.pdb
+D:\DPM225458_PhamHuuPhuoc\60mau\After Push Down Field 27\obj\Debug\net8.0\After Push Down Field 27.genruntimeconfig.cache
+D:\DPM225458_PhamHuuPhuoc\60mau\After Push Down Field 27\obj\Debug\net8.0\ref\After Push Down Field 27.dll

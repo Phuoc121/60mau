@@ -1,0 +1,14 @@
+D:\DPM225458_PhamHuuPhuoc\60mau\After Push Down Method 26\bin\Debug\net8.0\After Push Down Method 26.exe
+D:\DPM225458_PhamHuuPhuoc\60mau\After Push Down Method 26\bin\Debug\net8.0\After Push Down Method 26.deps.json
+D:\DPM225458_PhamHuuPhuoc\60mau\After Push Down Method 26\bin\Debug\net8.0\After Push Down Method 26.runtimeconfig.json
+D:\DPM225458_PhamHuuPhuoc\60mau\After Push Down Method 26\bin\Debug\net8.0\After Push Down Method 26.dll
+D:\DPM225458_PhamHuuPhuoc\60mau\After Push Down Method 26\bin\Debug\net8.0\After Push Down Method 26.pdb
+D:\DPM225458_PhamHuuPhuoc\60mau\After Push Down Method 26\obj\Debug\net8.0\After Push Down Method 26.GeneratedMSBuildEditorConfig.editorconfig
+D:\DPM225458_PhamHuuPhuoc\60mau\After Push Down Method 26\obj\Debug\net8.0\After Push Down Method 26.AssemblyInfoInputs.cache
+D:\DPM225458_PhamHuuPhuoc\60mau\After Push Down Method 26\obj\Debug\net8.0\After Push Down Method 26.AssemblyInfo.cs
+D:\DPM225458_PhamHuuPhuoc\60mau\After Push Down Method 26\obj\Debug\net8.0\After Push Down Method 26.csproj.CoreCompileInputs.cache
+D:\DPM225458_PhamHuuPhuoc\60mau\After Push Down Method 26\obj\Debug\net8.0\After Push Down Method 26.dll
+D:\DPM225458_PhamHuuPhuoc\60mau\After Push Down Method 26\obj\Debug\net8.0\refint\After Push Down Method 26.dll
+D:\DPM225458_PhamHuuPhuoc\60mau\After Push Down Method 26\obj\Debug\net8.0\After Push Down Method 26.pdb
+D:\DPM225458_PhamHuuPhuoc\60mau\After Push Down Method 26\obj\Debug\net8.0\After Push Down Method 26.genruntimeconfig.cache
+D:\DPM225458_PhamHuuPhuoc\60mau\After Push Down Method 26\obj\Debug\net8.0\ref\After Push Down Method 26.dll

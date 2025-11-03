@@ -1,0 +1,14 @@
+D:\DPM225458_PhamHuuPhuoc\60mau\After Remove Setting Method 18\bin\Debug\net8.0\After Remove Setting Method 18.exe
+D:\DPM225458_PhamHuuPhuoc\60mau\After Remove Setting Method 18\bin\Debug\net8.0\After Remove Setting Method 18.deps.json
+D:\DPM225458_PhamHuuPhuoc\60mau\After Remove Setting Method 18\bin\Debug\net8.0\After Remove Setting Method 18.runtimeconfig.json
+D:\DPM225458_PhamHuuPhuoc\60mau\After Remove Setting Method 18\bin\Debug\net8.0\After Remove Setting Method 18.dll
+D:\DPM225458_PhamHuuPhuoc\60mau\After Remove Setting Method 18\bin\Debug\net8.0\After Remove Setting Method 18.pdb
+D:\DPM225458_PhamHuuPhuoc\60mau\After Remove Setting Method 18\obj\Debug\net8.0\After Remove Setting Method 18.GeneratedMSBuildEditorConfig.editorconfig
+D:\DPM225458_PhamHuuPhuoc\60mau\After Remove Setting Method 18\obj\Debug\net8.0\After Remove Setting Method 18.AssemblyInfoInputs.cache
+D:\DPM225458_PhamHuuPhuoc\60mau\After Remove Setting Method 18\obj\Debug\net8.0\After Remove Setting Method 18.AssemblyInfo.cs
+D:\DPM225458_PhamHuuPhuoc\60mau\After Remove Setting Method 18\obj\Debug\net8.0\After Remove Setting Method 18.csproj.CoreCompileInputs.cache
+D:\DPM225458_PhamHuuPhuoc\60mau\After Remove Setting Method 18\obj\Debug\net8.0\After Remove Setting Method 18.dll
+D:\DPM225458_PhamHuuPhuoc\60mau\After Remove Setting Method 18\obj\Debug\net8.0\refint\After Remove Setting Method 18.dll
+D:\DPM225458_PhamHuuPhuoc\60mau\After Remove Setting Method 18\obj\Debug\net8.0\After Remove Setting Method 18.pdb
+D:\DPM225458_PhamHuuPhuoc\60mau\After Remove Setting Method 18\obj\Debug\net8.0\After Remove Setting Method 18.genruntimeconfig.cache
+D:\DPM225458_PhamHuuPhuoc\60mau\After Remove Setting Method 18\obj\Debug\net8.0\ref\After Remove Setting Method 18.dll
