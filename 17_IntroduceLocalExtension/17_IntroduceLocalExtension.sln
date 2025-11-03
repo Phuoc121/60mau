@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Before_IntroduceLocalExtension", "Before_IntroduceLocalExtension\Before_IntroduceLocalExtension.csproj", "{AAB042C0-BF9D-4014-9B25-C2D2A6831088}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "After_IntroduceLocalExtension", "After_IntroduceLocalExtension\After_IntroduceLocalExtension.csproj", "{67762DE1-5B1D-4670-8ECE-718F14B41CCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAB042C0-BF9D-4014-9B25-C2D2A6831088}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAB042C0-BF9D-4014-9B25-C2D2A6831088}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAB042C0-BF9D-4014-9B25-C2D2A6831088}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAB042C0-BF9D-4014-9B25-C2D2A6831088}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67762DE1-5B1D-4670-8ECE-718F14B41CCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67762DE1-5B1D-4670-8ECE-718F14B41CCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67762DE1-5B1D-4670-8ECE-718F14B41CCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67762DE1-5B1D-4670-8ECE-718F14B41CCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94DA22FD-5F5C-4E71-9C37-59FF16D69248}
+	EndGlobalSection
+EndGlobal
