@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "After_DuplicateObservedData", "After_DuplicateObservedData\After_DuplicateObservedData.csproj", "{D594E875-E231-4E88-9E2D-21A73FEBD3BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Before_DuplicateObservedData", "Before_DuplicateObservedData\Before_DuplicateObservedData.csproj", "{3ECB4C3C-30FF-4DF1-BB65-3705EEB20168}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D594E875-E231-4E88-9E2D-21A73FEBD3BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D594E875-E231-4E88-9E2D-21A73FEBD3BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D594E875-E231-4E88-9E2D-21A73FEBD3BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D594E875-E231-4E88-9E2D-21A73FEBD3BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3ECB4C3C-30FF-4DF1-BB65-3705EEB20168}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ECB4C3C-30FF-4DF1-BB65-3705EEB20168}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ECB4C3C-30FF-4DF1-BB65-3705EEB20168}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ECB4C3C-30FF-4DF1-BB65-3705EEB20168}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCD083D0-E238-4990-8258-D7209E32ABED}
+	EndGlobalSection
+EndGlobal
